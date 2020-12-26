@@ -1,4 +1,4 @@
-# You can find the blog post about this code at: https://www.datasciencecoffee.com/2020-smooth-bar-chart-race/
+# You can find the blog post about this code at: www.gabriel-berardi.com/post/create-a-smooth-bar-chart-race-with-python
 
 import pandas as pd
 import numpy as np
