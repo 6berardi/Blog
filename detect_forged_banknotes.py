@@ -1,4 +1,4 @@
-# You can find the blog post about this code at: https://www.datasciencecoffee.com/2020-facial-recognition-opencv/
+# You can find the blog post about this code at: www.gabriel-berardi.com/post/detect-forged-banknotes-with-a-logistic-regression
 
 # Importing required libraries
 
