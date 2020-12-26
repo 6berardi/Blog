@@ -1,4 +1,4 @@
-# You can find the blog post about this code at: https://www.datasciencecoffee.com/2020-scrape-book-shop/
+# You can find the blog post about this code at: www.gabriel-berardi.com/post/scrape-a-book-shop-with-beautifulsoup
 
 # Importing needed packages
 
