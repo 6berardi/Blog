@@ -1,4 +1,4 @@
-# You can find the blog post about this code at: https://www.datasciencecoffee.com/2020-where-to-eat-in-munich/
+# You can find the blog post about this code at: www.gabriel-berardi.com/post/where-to-eat-in-munich
 
 # Import required ibraries
 
